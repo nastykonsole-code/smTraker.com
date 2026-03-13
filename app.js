@@ -184,5 +184,13 @@ trackChannel.addEventListener('click', async function() {
     lVSTitle.textContent = videoTitle;
     videoInfo.appendChild(lVSTitle);
 
+    const lVSLikes = document.createElement('h4');
+    lVSLikes.textContent = "Likes: " + latestVideo.statistics.likeCount;
+    videoInfo.appendChild(lVSLikes);
+
+    const lVSViews = document.createElement('h4');
+    lVSViews.textContent = "Views: " + latestVideo.statistics.viewCount;
+    videoInfo.appendChild(lVSViews);
+
     console.log("Latest video chosen:", videoTitle);
 });
