@@ -4,10 +4,12 @@ export async function bottomSectionConstructor(API_KEY, channelInfo) {
     const bottomSection = document.createElement("div");
     bottomSection.classList.add("bottomSection");
     result.appendChild(bottomSection);
-
+    const playlistH1div = document.createElement('div');
+    playlistH1div.classList.add('titleh1div');
     const playlistH1 = document.createElement('h1');
     playlistH1.textContent = "Latest video's:";
-    bottomSection.appendChild(playlistH1);
+    playlistH1div.appendChild(playlistH1);
+    bottomSection.appendChild(playlistH1div);
 
     // Fetch uploads playlist
     const channelDetailsUrl = `https://www.googleapis.com/youtube/v3/channels?part=contentDetails&id=${channelInfo.id}&key=${API_KEY}`;
