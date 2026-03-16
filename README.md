@@ -20,6 +20,17 @@ The project is currently in **beta**, so some bugs may occur. The full release i
 4. **Enhance channel input placeholder**  
    Make the placeholder more interactive and helpful for users.
 
+5. **Make a page for qurstions.**
+   Make a page for questions that user may or not ask.
+
 ---
 
-*Edited: March 14, 2026*
+
+# What is new:
+
+1. **New design for channels**
+
+2. **Added creators section for YT channels**
+
+
+*Edited: March 15, 2026
