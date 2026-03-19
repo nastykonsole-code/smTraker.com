@@ -20,16 +20,16 @@ The project is currently in **beta**, so some bugs may occur. The full release i
 4. **Enhance channel input placeholder**  
    Make the placeholder more interactive and helpful for users.
 
-5. **Make a page for qurstions.**
+5. **Make a page for qurstions.** <br>
    Make a page for questions that user may or not ask.
 
-6. **Develope the mobile version.**
+6. **Develope the mobile version.** <br>
    Make aversion for mobile browsers.
 
-7. **Make the API key secret.**
+7. **Make the API key secret.** <br>
    Make the API hidden for users.
 
-8. **Update the last 10 videos section.**
+8. **Update the last 10 videos section.** <br>
    Make a more clean design for the last 10 video section.
 
 ---
