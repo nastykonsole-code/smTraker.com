@@ -23,6 +23,15 @@ The project is currently in **beta**, so some bugs may occur. The full release i
 5. **Make a page for qurstions.**
    Make a page for questions that user may or not ask.
 
+6. **Develope the mobile version.**
+   Make aversion for mobile browsers.
+
+7. **Make the API key secret.**
+   Make the API hidden for users.
+
+8. **Update the last 10 videos section.**
+   Make a more clean design for the last 10 video section.
+
 ---
 
 
@@ -33,4 +42,8 @@ The project is currently in **beta**, so some bugs may occur. The full release i
 2. **Added creators section for YT channels**
 
 
-*Edited: March 15, 2026
+*Edited: March 19, 2026
+
+
+
+
